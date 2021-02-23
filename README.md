@@ -16,7 +16,7 @@ This is a sample of NFT and IPFS (Pinata)
 copy `.envsample` and name it `.env`
 
 ## Pinata Setup
-1. signup to https://pinata.cloud
+1. signup to https://pinata.cloud and verify account (important)
 2. create new api key by clicking top right > API Key
 3. click 'new api key'
 4. enable 'admin key'
